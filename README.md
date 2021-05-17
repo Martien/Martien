@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Martien
-- 👀 I’m interested in dataviz
-- 🌱 I’m currently learning FP, Observable, SVG, CSS
+- 👀 I’m interested in http://observablehq.com/@martien/
+- 🌱 I’m currently learning Observable, SVG, FP, JS, CSS
 - 💞️ I’m looking to collaborate on cool dataviz projects
 - 📫 Reach me via martien@aardrock.com
 
